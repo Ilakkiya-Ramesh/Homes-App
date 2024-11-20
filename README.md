@@ -1,5 +1,12 @@
 # HomesApp
 
+![image](https://github.com/user-attachments/assets/01764215-2627-445a-a0d6-fe1de99324c6)
+
+
+![image](https://github.com/user-attachments/assets/2ae73de6-5222-4244-9a95-8481396ef101)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
 ## Development server
