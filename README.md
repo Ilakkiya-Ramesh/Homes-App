@@ -1,34 +1,53 @@
-# HomesApp
+# 🏠 HomesApp – House Listing Web App
 
-![image](https://github.com/user-attachments/assets/01764215-2627-445a-a0d6-fe1de99324c6)
+## 📌 Project Overview
 
+HomesApp is a responsive house listing web application developed using Angular.
 
-![image](https://github.com/user-attachments/assets/2ae73de6-5222-4244-9a95-8481396ef101)
+The application provides a user-friendly interface for browsing house listings and exploring property information.
 
+---
 
+## 🎯 Project Objective
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+The objective of this project was to build a responsive web application that demonstrates Angular development, component-based architecture, routing, and responsive user interface design.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Features
 
-## JSON Server for Locations DB API
+- 🏠 Browse house listings
+- 🔍 Search properties
+- 🔎 Filter property listings
+- 📱 Responsive user interface
+- 🧩 Component-based Angular structure
+- 🧭 Application routing
+- 🎨 Responsive HTML and CSS design
 
-Run `json-server --watch db.json` and navigate to the `http://localhost:3000/locations` and confirm that the response includes the data stored in db.json.
+---
 
-## Build
+## 🛠️ Technologies Used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📂 Project Structure
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```text
+Homes-App
+│
+├── assets/
+├── public/
+├── src/
+├── angular.json
+├── db.json
+├── package.json
+├── server.ts
+└── README.md
