@@ -1,5 +1,17 @@
 # 🏠 HomesApp – House Listing Web App
 
+## 🖼️ Application Preview
+
+### 🏠 Homes Listing
+
+![HomesApp Home Page](HomesApp-Home.png)
+
+### 🏡 Property Details
+
+![HomesApp Property Details](HomesApp-Details.png)
+
+---
+
 ## 📌 Project Overview
 
 HomesApp is a responsive house listing web application developed using Angular.
